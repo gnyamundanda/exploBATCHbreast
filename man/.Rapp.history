@@ -1,0 +1,9 @@
+data(Breast)
+Breast
+data(colon)
+data(Colon)
+library(exploBATCHbreast)
+data(breast)
+data(Breast)
+dim(breast)
+dim(Breast)
